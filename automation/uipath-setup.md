@@ -9,7 +9,7 @@
 **UIPath** is an amazing tool for doing UI based automations. It does support tons of processes and you can additionally add custom snippets using c# but what took my attention was it’s amazing and accurate support to ui Web Scrapping.
 
 
-![UIPath Setup](/automation/assets/uipath-setup.png)
+![UIPath Setup](https://raw.githubusercontent.com/sedhha/md-blogs/main/automation/assets/uipath-setup.png)
 
 
 # **UIPath And Its functionalities**
@@ -53,7 +53,7 @@ If you’re looking to check out any dynamic Javascript rendering in action, you
 
 Make sure, you developer tools is in the Elements tab where you could visualize the entire html DOM of the page. While scrolling through the page, you may see your DOM keeps flashing and new element keeps on adding. This is an example of dynamic JavaScript Rendering.
 
-![HTML DOM Inspection in Browser](/automation/assets/uipath-setup-01.jpeg)
+![HTML DOM Inspection in Browser](https://raw.githubusercontent.com/sedhha/md-blogs/main/automation/assets/uipath-setup-01.jpeg)
 
 ### What about Ghost Drivers and Headless Scrapping ?
 
@@ -83,19 +83,19 @@ Here are the steps you need to follow to Setup Auto login:
 
 - Press Windows + R or manually go to start search for Run and open the Run Executer or command Box.
 
-![Running Executor on Windows 10 netplwiz](/automation/assets/uipath-setup-02.jpeg)
+![Running Executor on Windows 10 netplwiz](https://raw.githubusercontent.com/sedhha/md-blogs/main/automation/assets/uipath-setup-02.jpeg)
 
 - Now type in netplwiz and hit Enter.
 
-![Running Executor on Windows 10 netplwiz](/automation/assets/uipath-setup-03.jpeg)
+![Running Executor on Windows 10 netplwiz](https://raw.githubusercontent.com/sedhha/md-blogs/main/automation/assets/uipath-setup-03.jpeg)
 
 - Now Uncheck the box that says: “Users must enter a user name and password to use this computer“.
 
-![Disabling password requirement for windows 10 using Run Executor](/automation/assets/uipath-setup-04.jpeg)
+![Disabling password requirement for windows 10 using Run Executor](https://raw.githubusercontent.com/sedhha/md-blogs/main/automation/assets/uipath-setup-04.jpeg)
 
 - When you click Ok, this brings up another pop up that will ask you for your username and password. Just enter the credentials of your windows instance that you use to make RDP (Remote Desktop Protocol) connection. In simple words it’s your username and password that you input to login into your windows instance (that is running on cloud) and please don’t confuse it with the credentials of your local windows machine.
 
-![Setting up Automatic Sign In in Windows 10 | 11](/automation/assets/uipath-setup-05.jpeg)
+![Setting up Automatic Sign In in Windows 10 | 11](https://raw.githubusercontent.com/sedhha/md-blogs/main/automation/assets/uipath-setup-05.jpeg)
 
 - Once you fill in the credentials and press ok, we’re good to go for our next configuration that is setting up the bat file for UIPath.
 
@@ -114,7 +114,7 @@ And I totally understand, they have their own terms and requirements for not doi
 Creating a .bat file is probably the simplest step in Windows. Open notepad, write the bat command and save it with an extension of .bat and file type to all files. Additionally, just to mention, try to keep your bat file name more specific like: schedulerscript.bat or so. Though I haven’t faced it but sometimes these bat names overlap with some default bat script names which can cause you some unknown issues.
 
 
-![Creating .bat file in Windows 10 | 11](/automation/assets/uipath-setup-06.jpeg)
+![Creating .bat file in Windows 10 | 11](https://raw.githubusercontent.com/sedhha/md-blogs/main/automation/assets/uipath-setup-06.jpeg)
 
 ### Building .bat for UIPath Script
 
@@ -138,7 +138,7 @@ I promise, we’re almost done. Now since everything is ready… we have created
 
 We again need to open run executor as we did while setting up Auto Login feature and this time we need to put in: shell:startup and hit enter.
 
-![Opening startup Folder in Windows 10](/automation/assets/uipath-setup-07.jpeg)
+![Opening startup Folder in Windows 10](https://raw.githubusercontent.com/sedhha/md-blogs/main/automation/assets/uipath-setup-07.jpeg)
 
 Once the folder opens, all you need to do is to paste your bat file created in early steps and for all kinds of cross check, I would recommend once running the bat file from there again.
 
