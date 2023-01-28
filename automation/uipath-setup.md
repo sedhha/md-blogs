@@ -147,15 +147,3 @@ In case it runs, boom! you did it… our deployment is now done. Try testing it 
 **Similar to This**: <a href="https://technopain.wordpress.com/2019/04/29/interfacing-matlab-with-raspberry-pi/" style="color:#AA4A44;">Setting up Matlab based Raspbian OS for raspberry pi</a>
 
 Happy Automation 😀
-
-
-
-
-
-
-
-
-
-
-
-
