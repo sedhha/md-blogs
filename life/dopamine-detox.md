@@ -4,7 +4,7 @@ How many of you are feeling low? How many of you want to take control of your li
 
 Identifying a problem with the root cause is the challenge we all face. Some of us have unhealthy diets. Some of us feel lonely and left out, some of us have pornography addictions, some of us are addicted to drugs, smoking and alcohol, etc.
 
-![Dopamine-Detoxification](/md-blogs/life/assets/dopamine-detox.png)
+![Dopamine-Detoxification](https://raw.githubusercontent.com/sedhha/md-blogs/main/life/assets/dopamine-detox.png)
 
 Well all these problems might seem different but they are actually one single candy coming out in different wrappers. You know what it is? It’s Dopamine. Dopamine is a pleasure releasing hormone which is released in our brain every time we do something which we find pleasurable.
 
