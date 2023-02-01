@@ -40,7 +40,7 @@ Can you spot the mistake here? Can you find the correct one? I tried to solve bo
 
 Just look at all the wrong attempts, I kept making to solve this silly problem. While solving the problem I just realized the very silly mistake I have been making…
 
-![Uniform Acceleration Kinematics Problem | Raw Notes](/mechanical/assets/uniform-acceleration-kinematics.png)
+![Uniform Acceleration Kinematics Problem | Raw Notes](https://raw.githubusercontent.com/sedhha/md-blogs/main/mechanical/assets/uniform-acceleration-kinematics.png)
 
 The first equation of 2 was actually correct with respect to question that was asked, only the u term was incorrect. In the equations of motion u is the initial velocity followed exactly at that instant which I was considering as the very first initial velocity. In simple terms, in the equation:
 
@@ -62,7 +62,7 @@ What I have been trying to convey via this particular blog is that, it helped me
 
 Well coming to the present, 4 years from then, I decided to pitch the same problem to chat GPT. Initially it rejected by saying it cannot be computed, however the second time it did this:
 
-![Chat GPT solves Uniform Acceleration Kinematics Problem](/mechanical/assets/uniform-acceleration-kinematics-01.png)
+![Chat GPT solves Uniform Acceleration Kinematics Problem](https://raw.githubusercontent.com/sedhha/md-blogs/main/mechanical/assets/uniform-acceleration-kinematics-01.png)
 
 
 
