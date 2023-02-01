@@ -1,6 +1,6 @@
 # Getting Started With SolidWorks
 
-**Pardon me for any image copyrights - These blogs were created at the time I was unaware of the copyrights. If you want me to take down any image, feel free to reach out to me @ technopains@gmail.com. Thank you for understanding!**
+**Sincere apologies for any image copyright infringements! These blogs were created at the time I was unaware of the copyrights. If you want me to take down any image, feel free to reach out to me @ technopains@gmail.com. Keep the Subject as 'Image Copyright Issue' Thank you for understanding!**
 
 Hey everyone!
 
