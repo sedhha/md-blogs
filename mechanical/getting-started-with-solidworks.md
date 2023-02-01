@@ -79,14 +79,3 @@ Here are few of those CAD models which I have designed in SolidWorks:
 ![Getting Started with SolidWorks Demo](https://raw.githubusercontent.com/sedhha/md-blogs/main/mechanical/assets/getting-started-with-solidworks-11.gif)
 
 Cheers!
-
-
-
-
-
-
-
-
-
-
-
