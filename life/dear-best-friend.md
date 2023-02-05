@@ -59,17 +59,11 @@ I just slipped off while playing and was badly injured, but guess what I just ru
 
 ![Girl crying and hugging a guy anime](https://cdn.wrytin.com/images/wrytup/r/1024/the-garden-or-words-featured-image-jwa531ht.jpeg)
 
-## Yesterday when they all four tried to hit on you and violently attacked you, guess what?
-
-Do you remember that big iron rod which was supposed to penetrate into your body? Aaaoouuu! That hurts so much dude, I still can't open my eyes, thank god it just passed side by my heart or else someone who stayed inside that would have hurt. I am happy that you're safe today! You know without you, I already don't have any reason to live, I was surviving for my mom and dad and perhaps they will be very disappointed after watching me like this. So please any day if you feel like I ever helped you with anything just help them too when they need.
-
-![Girl hugging a dead tired boy anime](https://cdn.wrytin.com/images/wrytup/r/1024/latestcb20130602150607-jwa54z9h.jpeg)
-
 Thanking you for everything
 
 *Dedicated to all single sided lovers who fall in this stupid trap and keep pursuing it as if nothing else matters. Everything in the world is temporary my friends except your true self! I hope you enjoyed this content but at the same time I wanted to convey a message that its okay to let go of people and move on in life.*
 
-<blockquote class="italic-text">
+<blockquote class="md---italic-text">
 You have to be willing to leave behind the good things in your life to experience the better and capture the best!
 </blockquote>
 
